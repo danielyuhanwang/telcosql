@@ -15,6 +15,8 @@ Telco_Analysis.sql -> My SQL data analysis code.
 
 #  Summary of Findings
 
+My analysis found that while 1869 customers left this quarter, only 454 customers joined. A plurality of those who churned cited 'competitor' as their reason for leaving. While the churn rate of men and women are roughly identical, those who recently joined are typically younger, and the churn rate of senior citizens(65 +) is higher than those who are not senior citizens. In addition, those who live without dependents churn at a greater rate than those who do, and those who have a longer tenure at the company have a lower churn rate.
+
 # Acknowledgements
 
 Data was taken from Hassan El Fattmi's Kaggle notebook "Why do customers leave? Can you spot the churners?": https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners/data?select=Service_Options.csv
