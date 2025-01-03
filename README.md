@@ -4,6 +4,14 @@ In this project, I performed exploratory data analysis in SQL with CRUD, sorting
 
 # Description of each file
 
+Customer_Info.csv -> contains information about customer demographics.
+Location_Data.csv -> contains information about location of customers.
+Online_Services.csv -> contains information about which services customers use.
+Payment_Info.csv -> contains information about charges and payment.
+Service_Options.csv -> contains information related to tenure in months, referral information, monthly download volume, status of marketing offers, phone service, etc.
+Status_Analysis.csv -> contains information related to satisfaction, whether customer churned or not, whether customer joined, and churn score(Value from 0-100 indicating likelihood to churn based on predictive IBM SPSS modeler).
+a_IBM Telco Customers Churn Datasets.xlsx -> Excel file containing entire dataset.
+Telco_Analysis.sql -> My SQL data analysis code.
 
 #  Summary of Findings
 
