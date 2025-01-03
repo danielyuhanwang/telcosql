@@ -179,7 +179,7 @@ JOIN telco_eda.payment_info payinfo ON statID.customer_id = payinfo.customer_id
 GROUP BY churn_value;
 
 
--- While the extra charges for those who churned was higher than those who did not churn by roughly (6.75 versus 7.16).
+-- The extra charges for those who churned was higher than those who did not churn by roughly (6.75 versus 7.16).
 
 
 
